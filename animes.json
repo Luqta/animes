@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "One Piece",
+        "gender": "Shounen",
+        "rate": 100,
+        "img":
+        "https://img1.ak.crunchyroll.com/i/spire4/8056a82e973dde98ebb82abd39dc69731564519729_full.jpg",
+        "description":
+            "A série centra-se em Monkey D. Luffy, um jovem que, inspirado por seu ídolo de infância e poderoso pirata Shanks, o Ruivo, sai em uma jornada do mar East Blue para encontrar o famoso tesouro One Piece e proclamar-se o Rei dos Piratas."
+    },
+    {
+        "id": 2,
+        "title": "Kimetsu No Yaiba",
+        "gender": "Shounen",
+        "rate": 95,
+        "img":
+            "https://img.elo7.com.br/product/original/26A822C/big-poster-anime-demon-slayer-kimetsu-no-yaiba-lo12-90x60-cm-poster-anime.jpg",
+        "description":
+            "Ambientada no Japão durante o Período Taishō (1912-1926), a história gira ao entorno de Tanjirō Kamado, um garoto bondoso e inteligente que vive junto com sua mãe e seus irmãos, ganhando dinheiro vendendo carvão, assim como seu falecido pai. Certo dia, ao voltar para casa após ter ido a uma cidade vender carvão, Tanjiro descobre que toda sua família foi atacada por onis, sendo que uma de suas irmãs, Nezuko, é a única que sobreviveu ao ataque. Nezuko então passa a ser um oni, mas ela surpreendentemente ainda demonstra sinais de emoções e pensamentos humanos. Tanjirō decide então se tornar um caçador de onis, e com a ajuda de Nezuko, passa a sair em jornadas pelo Japão a fim de impedir que a mesma tragédia que afetou sua família aconteça com outras pessoas, enquanto que ele busca uma maneira de tornar Nezuko humana novamente."
+    },
+    {
+        "id": 3,
+        "title": "Naruto",
+        "gender": "Shounen",
+        "rate": 100,
+        "img":
+            "https://cdn11.bigcommerce.com/s-b72t4x/images/stencil/1280x1280/products/11169/20874/24_1075_Naruto_Group__97803.1415650378.jpg?c=2",
+        "description":
+            "A história principal se foca em Naruto e seu desenvolvimento quanto ninja, junto com os seus amigos. Também se centra nas interações entre estes e a influência do ambiente em suas personalidades. Conforme transcorre a série, Naruto se relaciona com Sasuke Uchiha e Sakura Haruno, com quem forma o “Time 7”, juntamente com o sensei Kakashi Hatake."
+    },
+    {
+        "id": 4,
+        "title": "Dragon Ball Super",
+        "gender": "Shounen",
+        "rate": 97,
+        "img":
+            "https://portalnerdcore.files.wordpress.com/2017/08/dbz-super-poster-thor-ragnarok.jpg?w=700",
+        "description":
+            "Algum tempo depois da derrota de Majin Buu, a paz finalmente regressou à Terra. Son Goku estabeleceu-se e, por exigência de Chi-Chi, trabalha agora como fazendeiro, para sustentar e apoiar a sua família. Sua família e amigos vivem agora vidas pacíficas.[18] No entanto, surge uma nova ameaça sob a forma de Bills, o Deus da Destruição, considerado a mais terrível e perigosa divindade no Universo 7"
+    },
+    {
+        "id": 5,
+        "title": "Ano Hana",
+        "gender": "Drama",
+        "rate": 95,
+        "img":
+            "https://media.fstatic.com/TKgrlayNny5Kxz8a8nzHch_K_y8=/290x478/smart/media/movies/covers/2014/07/ano-hi-mita-hana-no-namae-o-bokutachi-wa-mada-shiranai_t40154.jpg",
+        "description":
+            "Um grupo de seis amigos de infância se separam após um deles, Meiko Menma Honma, morrer em um acidente. Dez anos seguintes desta tragédia, o líder do grupo, Jinta Yadomi, isola-se da sociedade e vive recluso. Em um dia de verão, porém, Menma aparece para Jinta, com uma aparência mais velha, pedindo-lhe ajuda para realizar seu desejo."
+    },
+    {
+        "id": 6,
+        "title": "One Punch Man",
+        "gender": "Shounen",
+        "rate": 100,
+        "img":
+            "https://images-na.ssl-images-amazon.com/images/I/717aat3l-YL._AC_SL1224_.jpg",
+        "description":
+            "A história se passa em cidades japonesas fictícias, especialmente na chamada de Cidade Z, onde aparecem com grande frequência seres monstruosos que causam vários desastres. Após treinar durante três anos, Saitama, o protagonista, se tornou um herói não oficial incrivelmente forte que derrota monstros ou outros vilões com um único soco."
+    },
+    {
+        "id": 7,
+        "title": "Shingeki no Kyojin",
+        "gender": "Shounen",
+        "rate": 95,
+        "img":
+            "https://cdn.europosters.eu/image/750/posters/attack-on-titan-shingeki-no-kyojin-key-art-i22808.jpg",
+        "description":
+            "Os seres humanos se depararam com a repentina aparição dos Titãs no distrito de Shiganshina após mais de um século de paz. Eren Yeager, Mikasa Ackerman-sua irmã adotiva- e seu amigo de infância, Armin Arlert, testemunham o aparecimento de uma Titã de 60 metros, o Titã Colossal, e outro menor, o Titã Blindado, que abrem uma brecha na muralha Maria. Os Titãs, em seguida, invadem a cidade e fazem uma carnificina, incluindo a morte da mãe de Eren, que é devorada diante de seus olhos. Ele então decide se vingar e matar todos os Titãs, entrando para Divisão de Exploração."
+    },
+    { 
+        "id": 8,
+        "title": "Pokémon",
+        "gender": "Ação",
+        "rate": 97,
+        "img":
+            "https://i.pinimg.com/originals/67/bc/36/67bc36fe4a5ad62a59b03059b58f57a1.jpg",
+        "description":
+            "Depois que ele completa 10 anos, Ash Ketchum (Satoshi no Japão) tem permissão para começar sua jornada no mundo dos Pokémon e sonha em se tornar um mestre Pokémon "
+    },
+    {
+        "id": 9,
+        "title": "The Promissed Neverland",
+        "gender": "Drama",
+        "rate": 97,
+        "img":
+            "https://img.elo7.com.br/product/zoom/26BC3E0/big-poster-anime-the-promised-neverland-lo16-90x60-cm-quadro.jpg",
+        "description":
+            "Emma é uma órfã que vive em um orfanato chamado Grace Field House junto com seus outros irmãos adotivos. Dois deles são Norman e Ray, que, juntamente com a Emma, são os mais velhos e conseguem as pontuações mais altas em testes diários que eles têm que realizar. Emma observa que, enquanto eles são capazes de fazer o que querem, não podem sair do orfanato para irem ao mundo exterior."
+    }
+]
