@@ -48,7 +48,8 @@ he wants.</p>
 <p>To all those data, is used the firebase database and some actions to react-redux work, and only the user who created that data can use, viewing, delete and editing.</p>
 
 **ICON BELOW THAT WERE USED IN THIS PROJECT WERE FROM FREEPIK, THE LINK IS:**
-**[Plus Icon](https://bityli.com/1RnUK)**
+**[Plus Icon](https://bityli.com/1RnUK)**<br>
+
 **ICON BELOW THAT WERE USED IN THIS PROJECT WERE FROM ICONSPHERE, THE LINK IS:**
 **[Image not found](https://bityli.com/kJvjg)**
 
