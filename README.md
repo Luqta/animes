@@ -101,7 +101,8 @@ he wants.</p>
 <p>Para todas as informações anteriores, foi utilizado o firebase Database e algumas actions para o react-redux funcionar, e vale lembrar que somente o usuário correspondente pode manipular aquelas informações, como ver, editar ou deletar.</p>
 
 
-<p>**O ÍCONE ABAIXO QUE FOI UTILIZADO NO PROJETO FOI RETIRADO DO FREEPIK, O LINK É:**</p>
-<p>**[Ícone de adicionar](https://bityli.com/1RnUK)**</p>
-<p>**O ÍCONE ABAIXO QUE FOI UTILIZADO NO PROJETO FOI RETIRADO DO ICONSPHERE, O LINK É**</p>
-<p>**[Imagem não encontrada](https://bityli.com/kJvjg)**</p>
+**O ÍCONE ABAIXO QUE FOI UTILIZADO NO PROJETO FOI RETIRADO DO FREEPIK, O LINK É:**
+**[Ícone de adicionar](https://bityli.com/1RnUK)**<br>
+
+**O ÍCONE ABAIXO QUE FOI UTILIZADO NO PROJETO FOI RETIRADO DO ICONSPHERE, O LINK É**
+**[Imagem não encontrada](https://bityli.com/kJvjg)**
