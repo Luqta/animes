@@ -34,10 +34,10 @@ This form page look like this image:
 
 <p>You can click on the anime card and will navigate to anime detail page, where are the detailed data about that anime, if you click on card bellow the image the description accordion will open up like the second image bellow:</p>
 
-<img src="/assets/images/detaileAnimePageClosed.jpeg" alt="detaileAnimePageClosed"
+<img src="/assets/images/detailedAnimePageClosed.jpeg" alt="detaileAnimePageClosed"
 	title="detaileAnimePageClosed" width="300" height="600" />
 
-<img src="/assets/images/detaileAnimePageOpened.jpeg" alt="detaileAnimePageOpened"
+<img src="/assets/images/detailedAnimePageOpened.jpeg" alt="detaileAnimePageOpened"
 	title="detaileAnimePageOpened" width="300" height="600" />
 
 <p>If you see bellow all this, have two buttons a edit button, and a delete button, if you click on remove button that anime will be deleted from database, and if you click on edit button will navigate to edit form page, that is made for you edit any data about that anime, if you made any mistake.</p>
