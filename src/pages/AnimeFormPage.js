@@ -136,8 +136,6 @@ class AnimeFormPage extends React.Component{
                                 onValueChange={itemValue => setField('gender', itemValue)}>    
             
                                 <Picker.Item label="Shounen" value="shounen" />
-                                <Picker.Item label="Hentai" value="pornUnsafe" />
-                                <Picker.Item label="Ecchi" value="pornSafe" />
                                 <Picker.Item label="Comédia" value="comedy" />
                                 <Picker.Item label="Ação" value="action" />
                                 <Picker.Item label="Drama" value="drama" />
