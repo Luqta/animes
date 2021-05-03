@@ -34,11 +34,11 @@ he wants.</p>
 
 <p>You can click on the anime card and will navigate to anime detail page, where are the detailed data about that anime, if you click on card below the image the description accordion will open up like the second image below:</p>
 
-<img src="/assets/images/detailedAnimePageClosed.jpeg" alt="detaileAnimePageClosed"
-	title="detaileAnimePageClosed" width="300" height="600" />
+<img src="/assets/images/detailAnimePageClosed.jpeg" alt="detailAnimePageClosed"
+	title="detailAnimePageClosed" width="300" height="600" />
 
-<img src="/assets/images/detailedAnimePageOpened.jpeg" alt="detaileAnimePageOpened"
-	title="detaileAnimePageOpened" width="300" height="600" />
+<img src="/assets/images/detailAnimePageOpened.jpeg" alt="detailAnimePageOpened"
+	title="detailAnimePageOpened" width="300" height="600" />
 
 <p>If you see below all this, have two buttons a edit button, and a delete button, if you click on remove button that anime will be deleted from database, and if you click on edit button will navigate to edit form page, that is made for you edit any data about that anime, if you made any mistake.</p>
 
@@ -47,10 +47,10 @@ he wants.</p>
 
 <p>To all those data, is used the firebase database and some actions to react-redux work, and only the user who created that data can use, viewing, delete and editing.</p>
 
-<p>**ICON BELOW THAT WERE USED IN THIS PROJECT WERE FROM FREEPIK, THE LINK IS:**</p>
-<p>**[Plus Icon](https://bityli.com/1RnUK)**</p>
-<p>**ICON BELOW THAT WERE USED IN THIS PROJECT WERE FROM ICONSPHERE, THE LINK IS:**</p>
-<p>**[Image not found](https://bityli.com/kJvjg)**</p>
+**ICON BELOW THAT WERE USED IN THIS PROJECT WERE FROM FREEPIK, THE LINK IS:**
+**[Plus Icon](https://bityli.com/1RnUK)**
+**ICON BELOW THAT WERE USED IN THIS PROJECT WERE FROM ICONSPHERE, THE LINK IS:**
+**[Image not found](https://bityli.com/kJvjg)**
 
 <h1>Português</h1>
 
@@ -86,11 +86,11 @@ he wants.</p>
 
 <p>Você pode clicar no card do anime e navegar para a página de detalhes do anime, onde há as informações mais detalhadas do anime, ao clicar no cartão de informações a sanfona da descrição irá abrir como na segunda imagem:</p>
 
-<img src="/assets/images/detailedAnimePageClosed.jpeg" alt="detaileAnimePageClosed"
-	title="detaileAnimePageClosed" width="300" height="600" />
+<img src="/assets/images/detailAnimePageClosed.jpeg" alt="detailAnimePageClosed"
+	title="detailAnimePageClosed" width="300" height="600" />
 
-<img src="/assets/images/detailedAnimePageOpened.jpeg" alt="detaileAnimePageOpened"
-	title="detaileAnimePageOpened" width="300" height="600" />
+<img src="/assets/images/detailAnimePageOpened.jpeg" alt="detailAnimePageOpened"
+	title="detailAnimePageOpened" width="300" height="600" />
 
 <p>Se você observar, abaixo disso tudo, há dois botões, um botão para a editar o anime, e um botão para deletar o anime, se você clicar no botão de deletar, o anime será deletado do banco de dados, e ao clicar no botão de editar o anime, você poderá editar as informações que você colocou anteriormente para aquele anime, caso tenha cometido algum engano.</p>
 
